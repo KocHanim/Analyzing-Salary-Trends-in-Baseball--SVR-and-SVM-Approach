@@ -30,3 +30,11 @@ Within the project, 2 estimation processes were performed as primitive C paramet
 The bottom graph shows the prediction and actual results.
 
 <img src="https://github.com/KocHanim/Analyzing-Salary-Trends-in-Baseball--SVR-and-SVM-Approach/assets/115664157/28e4eb88-643f-43ee-80fe-55c7613ebb03" alt="images" align="center">
+
+
+*Can you hear it? The noise of the future!*
+
+# Author:
+Rumeysa KOÇ
+
+
