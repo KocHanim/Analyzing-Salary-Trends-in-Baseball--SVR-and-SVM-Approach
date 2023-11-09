@@ -20,7 +20,7 @@ This can increase the risk of the model overfitting. The smaller the C parameter
 This can increase the risk of the model underfitting. The C parameter affects the generalisation ability of the model. 
 The C parameter can take different values depending on the distribution and noise of the data. 
 Different methods can be used to determine the C parameter, such as cross-validation. 
-The C parameter is important for optimising the performance and accuracy of the support vector regression model.
+The C parameter is important for optimising the performance and accuracy of the support vector regression model.[3]
 
 ## Project Details:
 
@@ -37,4 +37,11 @@ The bottom graph shows the prediction and actual results.
 # Author:
 Rumeysa KOÇ
 
+# References
+[1] https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html
 
+[2] https://www.mathworks.com/help/stats/understanding-support-vector-machine-regression.html
+
+[3] https://medium.com/@rathodrutesh/what-is-parameter-c-in-support-vector-machine-regression-f75be9df98ec
+
+[4]
