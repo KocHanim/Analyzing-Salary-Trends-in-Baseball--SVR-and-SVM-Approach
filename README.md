@@ -44,4 +44,3 @@ Rumeysa KOÇ
 
 [3] https://medium.com/@rathodrutesh/what-is-parameter-c-in-support-vector-machine-regression-f75be9df98ec
 
-[4]
