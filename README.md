@@ -4,7 +4,7 @@
 <img src="https://github.com/KocHanim/Analyzing-Salary-Trends-in-Baseball--SVR-and-SVM-Approach/assets/115664157/07c85943-affa-4c09-9b5d-b653a73b616d" alt="images" align="right" width="500" height="350">
 Support vector regression is a machine learning method that attempts to make predictions by grouping data on a hyperplane. 
 This method can use different kernel functions depending on whether the data is linear or non-linear. 
-Kernel functions transform the data into a higher dimensional space, increasing the fit between the hyperplane and the data. 
+Kernel functions transform the data into a higher dimensional space, increasing the fit between the hyperplane and the data.  
 Support vector regression tries to maximise the largest marginal distance to the data. The margin is the smallest distance between the hyperplane and the data. 
 Support vector regression can take different parameters depending on the distribution and noise of the data. 
 These parameters determine the slope, shift and flexibility of the hyperplane. 
