@@ -8,7 +8,7 @@ Kernel functions transform the data into a higher dimensional space, increasing 
 Support vector regression tries to maximise the largest marginal distance to the data. The margin is the smallest distance between the hyperplane and the data. 
 Support vector regression can take different parameters depending on the distribution and noise of the data. 
 These parameters determine the slope, shift and flexibility of the hyperplane. 
-Support vector regression is an effective method for solving regression problems and can be applied in various fields[1][2]
+Support vector regression is an effective method for solving regression problems and can be applied in various fields[1][2] 
 
 ## Parameter C
 <img src="https://github.com/KocHanim/Analyzing-Salary-Trends-in-Baseball--SVR-and-SVM-Approach/assets/115664157/2e9b37bd-6d22-4f94-911b-9005e046afbf" alt="images" align="right" width="500" height="200">
